@@ -8,6 +8,6 @@ class Averge_Calculation:
         average=sum/len(self.marks)
         print("the average of "+self.name+" is "+str(average))
 
-Marks=[70,50,80,90]
+Marks=[40,50,60,70]
 average1=Averge_Calculation("Ali",Marks)
 average1.calculation()
