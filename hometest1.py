@@ -1,31 +1,13 @@
-import random
-class ChatBot:
-    def __init__(self,standardanswer,questionanswer):
-        self.standardanswer=standardanswer
-        self.questionanswer=questionanswer
-    def reply(self,text):
-        if "?" in text:
-            random_ans=random.randint(0,len(self.questionanswer)-1)
-            print(self.questionanswer[random_ans])
-        else:
-            random_ans=random.randint(0,len(self.standardanswer)-1)
-            print(self.standardanswer[random_ans])
-    def learn(self,text):
-        if "?" in text:
-            self.questionanswer.append(text)
-        else:
-            self.standardanswer.append(text)
+from functools import reduce
+class Averge_Calculation:
+    def __init__(self,name,marks):
+        self.name=name
+        self.marks=marks
+    def calculation(self):
+        sum=reduce((lambda x,y:x+y),self.marks)
+        average=sum/len(self.marks)
+        print("the average of "+self.name+" is "+str(average))
 
-
-
-
-Question_ans=["it's rainy","it's sunny"]
-standard_ans=["hello","hi"]
-chat1=ChatBot(standard_ans,Question_ans)
-chat1.learn("i do not know")
-#while True:
-    #ans = input()
-    #chat1.reply(ans)
-
-
-#chat1.learn()
+Marks=[70,50,80,90]
+average1=Averge_Calculation("Ali",Marks)
+average1.calculation()
