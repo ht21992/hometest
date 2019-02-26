@@ -11,3 +11,4 @@ class Averge_Calculation:
 Marks=[40,50,60,70]
 average1=Averge_Calculation("Ali",Marks)
 average1.calculation()
+#testing pull command
