@@ -27,9 +27,9 @@ def get_statistic(Team):
         for goal_avrage in Team["GA"]:
             for rating in Team["rating"]:
                 return name,rating,goal_avrage
-
 import pandas as pd
 import random
+
 
 xg_data = pd.read_csv('epl_xg.csv')
 Team_1=xg_data[xg_data['Team']==random.choice(xg_data['Team'])]

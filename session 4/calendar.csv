@@ -1,0 +1,381 @@
+,ID,Date,Time,Status,Home Team,H HT Score,H Score,A Score,A HT Score,Away Team,Attendance
+0,111981,10/8/2018,20:00:00,FT,Manchester United,1.0,2,1,0.0,Leicester City,74439.0
+1,108933,11/8/2018,15:00:00,FT,AFC Bournemouth,1.0,2,0,0.0,Cardiff City,10353.0
+2,108934,11/8/2018,15:00:00,FT,Fulham,0.0,0,2,1.0,Crystal Palace,24821.0
+3,107278,11/8/2018,15:00:00,FT,Huddersfield Town,0.0,0,3,2.0,Chelsea,24121.0
+4,107281,11/8/2018,12:30:00,FT,Newcastle United,1.0,1,2,2.0,Tottenham Hotspur,51749.0
+5,107283,11/8/2018,15:00:00,FT,Watford,1.0,2,0,0.0,Brighton & Hove Albion,20051.0
+6,108932,11/8/2018,17:30:00,FT,Wolverhampton Wanderers,1.0,2,2,1.0,Everton,31231.0
+7,111984,12/8/2018,16:00:00,FT,Arsenal,0.0,0,2,1.0,Manchester City,59934.0
+8,111982,12/8/2018,13:30:00,FT,Liverpool,2.0,4,0,0.0,West Ham United,53235.0
+9,111983,12/8/2018,13:30:00,FT,Southampton,0.0,0,0,0.0,Burnley,30784.0
+10,108936,18/8/2018,12:30:00,FT,Cardiff City,0.0,0,0,0.0,Newcastle United,30720.0
+11,107286,18/8/2018,17:30:00,FT,Chelsea,2.0,3,2,2.0,Arsenal,40491.0
+12,107288,18/8/2018,15:00:00,FT,Everton,2.0,2,1,0.0,Southampton,38601.0
+13,108937,18/8/2018,15:00:00,FT,Leicester City,2.0,2,0,0.0,Wolverhampton Wanderers,32043.0
+14,108935,18/8/2018,15:00:00,FT,Tottenham Hotspur,1.0,3,1,0.0,Fulham,58297.0
+15,107290,18/8/2018,15:00:00,FT,West Ham United,1.0,1,2,0.0,AFC Bournemouth,56888.0
+16,111986,19/8/2018,16:00:00,FT,Brighton & Hove Albion,3.0,3,2,1.0,Manchester United,30592.0
+17,118048,19/8/2018,13:30:00,FT,Burnley,1.0,1,3,1.0,Watford,18822.0
+18,111985,19/8/2018,13:30:00,FT,Manchester City,3.0,6,1,1.0,Huddersfield Town,54021.0
+19,111987,20/8/2018,20:00:00,FT,Crystal Palace,0.0,0,2,1.0,Liverpool,25750.0
+20,107293,25/8/2018,15:00:00,FT,AFC Bournemouth,0.0,2,2,0.0,Everton,10654.0
+21,107292,25/8/2018,15:00:00,FT,Arsenal,1.0,3,1,1.0,West Ham United,59830.0
+22,108939,25/8/2018,15:00:00,FT,Huddersfield Town,0.0,0,0,0.0,Cardiff City,23787.0
+23,107294,25/8/2018,17:30:00,FT,Liverpool,1.0,1,0,0.0,Brighton & Hove Albion,53294.0
+24,107297,25/8/2018,15:00:00,FT,Southampton,0.0,1,2,0.0,Leicester City,29925.0
+25,108940,25/8/2018,12:30:00,FT,Wolverhampton Wanderers,0.0,1,1,0.0,Manchester City,31322.0
+26,119557,26/8/2018,16:00:00,FT,Fulham,3.0,4,2,2.0,Burnley,23438.0
+27,111989,26/8/2018,16:00:00,FT,Newcastle United,0.0,1,2,0.0,Chelsea,51791.0
+28,111988,26/8/2018,13:30:00,FT,Watford,0.0,2,1,0.0,Crystal Palace,20014.0
+29,111990,27/8/2018,20:00:00,FT,Manchester United,0.0,0,3,0.0,Tottenham Hotspur,74400.0
+30,108942,1/9/2018,15:00:00,FT,Brighton & Hove Albion,0.0,2,2,1.0,Fulham,30526.0
+31,107299,1/9/2018,15:00:00,FT,Chelsea,0.0,2,0,0.0,AFC Bournemouth,40178.0
+32,107300,1/9/2018,15:00:00,FT,Crystal Palace,0.0,0,2,0.0,Southampton,25495.0
+33,107301,1/9/2018,15:00:00,FT,Everton,1.0,1,1,1.0,Huddersfield Town,38767.0
+34,107302,1/9/2018,12:30:00,FT,Leicester City,0.0,1,2,2.0,Liverpool,32149.0
+35,107303,1/9/2018,17:30:00,FT,Manchester City,1.0,2,1,1.0,Newcastle United,53946.0
+36,108941,1/9/2018,15:00:00,FT,West Ham United,0.0,0,1,0.0,Wolverhampton Wanderers,56947.0
+37,119561,2/9/2018,16:00:00,FT,Burnley,0.0,0,2,2.0,Manchester United,21525.0
+38,112005,2/9/2018,13:30:00,FT,Cardiff City,1.0,2,3,1.0,Arsenal,32316.0
+39,112006,2/9/2018,16:00:00,FT,Watford,0.0,2,1,0.0,Tottenham Hotspur,20141.0
+40,107305,15/9/2018,15:00:00,FT,AFC Bournemouth,3.0,4,2,0.0,Leicester City,10543.0
+41,108945,15/9/2018,15:00:00,FT,Chelsea,2.0,4,1,1.0,Cardiff City,40499.0
+42,107307,15/9/2018,15:00:00,FT,Huddersfield Town,0.0,0,1,1.0,Crystal Palace,23696.0
+43,108946,15/9/2018,15:00:00,FT,Manchester City,2.0,3,0,0.0,Fulham,53307.0
+44,107309,15/9/2018,15:00:00,FT,Newcastle United,0.0,1,2,0.0,Arsenal,52165.0
+45,107310,15/9/2018,12:30:00,FT,Tottenham Hotspur,0.0,1,2,1.0,Liverpool,80188.0
+46,107311,15/9/2018,17:30:00,FT,Watford,0.0,1,2,2.0,Manchester United,20537.0
+47,112008,16/9/2018,16:00:00,FT,Everton,1.0,1,3,2.0,West Ham United,39161.0
+48,112007,16/9/2018,13:30:00,FT,Wolverhampton Wanderers,0.0,1,0,0.0,Burnley,30406.0
+49,112009,17/9/2018,20:00:00,FT,Southampton,1.0,2,2,0.0,Brighton & Hove Albion,
+50,107313,22/9/2018,17:30:00,FT,Brighton & Hove Albion,0.0,1,2,1.0,Tottenham Hotspur,30531.0
+51,107314,22/9/2018,15:00:00,FT,Burnley,2.0,4,0,0.0,AFC Bournemouth,18636.0
+52,108948,22/9/2018,15:00:00,FT,Cardiff City,0.0,0,5,3.0,Manchester City,32321.0
+53,107315,22/9/2018,15:00:00,FT,Crystal Palace,0.0,0,0,0.0,Newcastle United,25679.0
+54,108949,22/9/2018,12:30:00,FT,Fulham,0.0,1,1,1.0,Watford,23418.0
+55,107316,22/9/2018,15:00:00,FT,Leicester City,1.0,3,1,1.0,Huddersfield Town,31676.0
+56,107317,22/9/2018,15:00:00,FT,Liverpool,3.0,3,0,0.0,Southampton,50965.0
+57,108947,22/9/2018,15:00:00,FT,Manchester United,1.0,1,1,0.0,Wolverhampton Wanderers,74489.0
+58,112011,23/9/2018,16:00:00,FT,Arsenal,0.0,2,0,0.0,Everton,59964.0
+59,112010,23/9/2018,13:30:00,FT,West Ham United,0.0,0,0,0.0,Chelsea,56875.0
+60,107320,29/9/2018,15:00:00,FT,Arsenal,0.0,2,0,0.0,Watford,60019.0
+61,107322,29/9/2018,17:30:00,FT,Chelsea,1.0,1,1,0.0,Liverpool,40625.0
+62,108951,29/9/2018,15:00:00,FT,Everton,0.0,3,0,0.0,Fulham,38788.0
+63,107323,29/9/2018,15:00:00,FT,Huddersfield Town,0.0,0,2,2.0,Tottenham Hotspur,23885.0
+64,107324,29/9/2018,15:00:00,FT,Manchester City,1.0,2,0,0.0,Brighton & Hove Albion,54152.0
+65,107325,29/9/2018,15:00:00,FT,Newcastle United,0.0,0,2,1.0,Leicester City,51523.0
+66,107319,29/9/2018,12:30:00,FT,West Ham United,2.0,3,1,0.0,Manchester United,56938.0
+67,108952,29/9/2018,15:00:00,FT,Wolverhampton Wanderers,0.0,2,0,0.0,Southampton,31147.0
+68,112012,30/9/2018,16:00:00,FT,Cardiff City,0.0,1,2,0.0,Burnley,30411.0
+69,112013,1/10/2018,20:00:00,FT,AFC Bournemouth,1.0,2,1,0.0,Crystal Palace,10199.0
+70,118230,5/10/2018,20:00:00,FT,Brighton & Hove Albion,1.0,1,0,0.0,West Ham United,30544.0
+71,107327,6/10/2018,15:00:00,FT,Burnley,1.0,1,1,0.0,Huddersfield Town,20533.0
+72,108955,6/10/2018,15:00:00,FT,Crystal Palace,0.0,0,1,0.0,Wolverhampton Wanderers,25715.0
+73,107328,6/10/2018,15:00:00,FT,Leicester City,1.0,1,2,1.0,Everton,32007.0
+74,107330,6/10/2018,17:30:00,FT,Manchester United,0.0,3,2,2.0,Newcastle United,74519.0
+75,108953,6/10/2018,15:00:00,FT,Tottenham Hotspur,1.0,1,0,0.0,Cardiff City,43268.0
+76,107332,6/10/2018,15:00:00,FT,Watford,0.0,0,4,3.0,AFC Bournemouth,20139.0
+77,118231,7/10/2018,12:00:00,FT,Fulham,1.0,1,5,1.0,Arsenal,25401.0
+78,118233,7/10/2018,16:30:00,FT,Liverpool,0.0,0,0,0.0,Manchester City,52117.0
+79,118232,7/10/2018,14:15:00,FT,Southampton,0.0,0,3,1.0,Chelsea,27077.0
+80,107334,20/10/2018,15:00:00,FT,AFC Bournemouth,0.0,0,0,0.0,Southampton,10986.0
+81,108957,20/10/2018,15:00:00,FT,Cardiff City,2.0,4,2,2.0,Fulham,29681.0
+82,107335,20/10/2018,12:30:00,FT,Chelsea,1.0,2,2,0.0,Manchester United,40721.0
+83,107337,20/10/2018,17:30:00,FT,Huddersfield Town,0.0,0,1,1.0,Liverpool,24263.0
+84,107338,20/10/2018,15:00:00,FT,Manchester City,1.0,5,0,0.0,Burnley,54094.0
+85,107339,20/10/2018,15:00:00,FT,Newcastle United,0.0,0,1,1.0,Brighton & Hove Albion,50329.0
+86,107340,20/10/2018,15:00:00,FT,West Ham United,0.0,0,1,1.0,Tottenham Hotspur,56921.0
+87,108956,20/10/2018,15:00:00,FT,Wolverhampton Wanderers,0.0,0,2,2.0,Watford,31144.0
+88,118234,21/10/2018,16:00:00,FT,Everton,0.0,2,0,0.0,Crystal Palace,38668.0
+89,118235,22/10/2018,20:00:00,FT,Arsenal,1.0,3,1,1.0,Leicester City,59886.0
+90,108958,27/10/2018,15:00:00,FT,Brighton & Hove Albion,0.0,1,0,0.0,Wolverhampton Wanderers,30654.0
+91,108959,27/10/2018,15:00:00,FT,Fulham,0.0,0,3,1.0,AFC Bournemouth,25071.0
+92,107344,27/10/2018,17:30:00,FT,Leicester City,0.0,1,1,1.0,West Ham United,31848.0
+93,108960,27/10/2018,15:00:00,FT,Liverpool,1.0,4,1,0.0,Cardiff City,53373.0
+94,107346,27/10/2018,15:00:00,FT,Southampton,0.0,0,0,0.0,Newcastle United,30736.0
+95,107341,27/10/2018,15:00:00,FT,Watford,2.0,3,0,0.0,Huddersfield Town,20457.0
+96,118872,28/10/2018,13:30:00,FT,Burnley,0.0,0,4,1.0,Chelsea,21430.0
+97,118236,28/10/2018,13:30:00,FT,Crystal Palace,1.0,2,2,0.0,Arsenal,
+98,120410,28/10/2018,16:00:00,FT,Manchester United,1.0,2,1,0.0,Everton,74525.0
+99,120411,29/10/2018,20:00:00,FT,Tottenham Hotspur,0.0,0,1,1.0,Manchester City,56854.0
+100,107350,3/11/2018,12:30:00,FT,AFC Bournemouth,1.0,1,2,1.0,Manchester United,10792.0
+101,107349,3/11/2018,17:30:00,FT,Arsenal,0.0,1,1,0.0,Liverpool,59993.0
+102,108961,3/11/2018,15:00:00,FT,Cardiff City,0.0,0,1,0.0,Leicester City,30877.0
+103,107352,3/11/2018,15:00:00,FT,Everton,1.0,3,1,1.0,Brighton & Hove Albion,38966.0
+104,107354,3/11/2018,15:00:00,FT,Newcastle United,0.0,1,0,0.0,Watford,49157.0
+105,107348,3/11/2018,15:00:00,FT,West Ham United,1.0,4,2,1.0,Burnley,56862.0
+106,120125,3/11/2018,19:45:00,FT,Wolverhampton Wanderers,0.0,2,3,2.0,Tottenham Hotspur,31185.0
+107,118239,4/11/2018,16:00:00,FT,Chelsea,1.0,3,1,0.0,Crystal Palace,40407.0
+108,121036,4/11/2018,15:00:00,FT,Manchester City,4.0,6,1,1.0,Southampton,53916.0
+109,118240,5/11/2018,20:00:00,FT,Huddersfield Town,1.0,1,0,0.0,Fulham,17082.0
+110,108965,10/11/2018,12:30:00,FT,Cardiff City,1.0,2,1,1.0,Brighton & Hove Albion,29402.0
+111,107357,10/11/2018,17:30:00,FT,Crystal Palace,0.0,0,1,0.0,Tottenham Hotspur,25685.0
+112,107358,10/11/2018,15:00:00,FT,Huddersfield Town,1.0,1,1,0.0,West Ham United,24069.0
+113,107359,10/11/2018,15:00:00,FT,Leicester City,0.0,0,0,0.0,Burnley,
+114,107355,10/11/2018,15:00:00,FT,Newcastle United,2.0,2,1,0.0,AFC Bournemouth,49266.0
+115,107361,10/11/2018,15:00:00,FT,Southampton,1.0,1,1,0.0,Watford,28153.0
+116,118873,11/11/2018,16:30:00,FT,Arsenal,0.0,1,1,1.0,Wolverhampton Wanderers,60030.0
+117,118242,11/11/2018,14:15:00,FT,Chelsea,0.0,0,0,0.0,Everton,40345.0
+118,118241,11/11/2018,12:00:00,FT,Liverpool,1.0,2,0,0.0,Fulham,53128.0
+119,118243,11/11/2018,16:30:00,FT,Manchester City,1.0,3,1,0.0,Manchester United,54316.0
+120,107364,24/11/2018,15:00:00,FT,Brighton & Hove Albion,1.0,1,1,0.0,Leicester City,30553.0
+121,108967,24/11/2018,15:00:00,FT,Everton,0.0,1,0,0.0,Cardiff City,39139.0
+122,108968,24/11/2018,15:00:00,FT,Fulham,2.0,3,2,1.0,Southampton,24603.0
+123,107366,24/11/2018,15:00:00,FT,Manchester United,0.0,0,0,0.0,Crystal Palace,74516.0
+124,107367,24/11/2018,17:30:00,FT,Tottenham Hotspur,2.0,3,1,0.0,Chelsea,55465.0
+125,107368,24/11/2018,15:00:00,FT,Watford,0.0,0,3,0.0,Liverpool,20540.0
+126,107362,24/11/2018,15:00:00,FT,West Ham United,0.0,0,4,3.0,Manchester City,56886.0
+127,118244,25/11/2018,13:30:00,FT,AFC Bournemouth,1.0,1,2,1.0,Arsenal,10792.0
+128,118245,25/11/2018,16:00:00,FT,Wolverhampton Wanderers,0.0,0,2,1.0,Huddersfield Town,30130.0
+129,118246,26/11/2018,20:30:00,FT,Burnley,1.0,1,2,2.0,Newcastle United,20628.0
+130,121221,30/11/2018,20:00:00,FT,Cardiff City,0.0,2,1,1.0,Wolverhampton Wanderers,30213.0
+131,107371,1/12/2018,15:00:00,FT,Crystal Palace,1.0,2,0,0.0,Burnley,25098.0
+132,107369,1/12/2018,15:00:00,FT,Huddersfield Town,1.0,1,2,1.0,Brighton & Hove Albion,22973.0
+133,107372,1/12/2018,15:00:00,FT,Leicester City,2.0,2,0,0.0,Watford,31353.0
+134,107374,1/12/2018,15:00:00,FT,Manchester City,1.0,3,1,1.0,AFC Bournemouth,54409.0
+135,107375,1/12/2018,15:00:00,FT,Newcastle United,0.0,0,3,1.0,West Ham United,51853.0
+136,107376,1/12/2018,17:30:00,FT,Southampton,2.0,2,2,2.0,Manchester United,30187.0
+137,121223,2/12/2018,14:05:00,FT,Arsenal,1.0,4,2,2.0,Tottenham Hotspur,59973.0
+138,121222,2/12/2018,12:00:00,FT,Chelsea,1.0,2,0,0.0,Fulham,40551.0
+139,121224,2/12/2018,16:15:00,FT,Liverpool,0.0,1,0,0.0,Everton,
+140,107377,4/12/2018,19:45:00,FT,AFC Bournemouth,2.0,2,1,1.0,Huddersfield Town,9980.0
+141,107378,4/12/2018,19:45:00,FT,Brighton & Hove Albion,3.0,3,1,0.0,Crystal Palace,29663.0
+142,107380,4/12/2018,20:00:00,FT,Watford,0.0,1,2,1.0,Manchester City,20389.0
+143,108974,4/12/2018,19:45:00,FT,West Ham United,0.0,3,1,0.0,Cardiff City,56811.0
+144,121225,5/12/2018,19:45:00,FT,Burnley,0.0,1,3,0.0,Liverpool,21741.0
+145,107382,5/12/2018,19:45:00,FT,Everton,1.0,1,1,1.0,Newcastle United,39350.0
+146,121226,5/12/2018,19:45:00,FT,Fulham,1.0,1,1,0.0,Leicester City,22881.0
+147,121228,5/12/2018,20:00:00,FT,Manchester United,1.0,2,2,1.0,Arsenal,74507.0
+148,107383,5/12/2018,20:00:00,FT,Tottenham Hotspur,1.0,3,1,0.0,Southampton,33012.0
+149,121227,5/12/2018,19:45:00,FT,Wolverhampton Wanderers,0.0,2,1,1.0,Chelsea,31300.0
+150,107385,8/12/2018,12:30:00,FT,AFC Bournemouth,0.0,0,4,1.0,Liverpool,10752.0
+151,107384,8/12/2018,15:00:00,FT,Arsenal,0.0,1,0,0.0,Huddersfield Town,59893.0
+152,107386,8/12/2018,15:00:00,FT,Burnley,1.0,1,0,0.0,Brighton & Hove Albion,18497.0
+153,108976,8/12/2018,15:00:00,FT,Cardiff City,0.0,1,0,0.0,Southampton,30067.0
+154,107387,8/12/2018,17:30:00,FT,Chelsea,1.0,2,0,0.0,Manchester City,40571.0
+155,107389,8/12/2018,19:45:00,FT,Leicester City,0.0,0,2,1.0,Tottenham Hotspur,31957.0
+156,108977,8/12/2018,15:00:00,FT,Manchester United,3.0,4,1,0.0,Fulham,74523.0
+157,107390,8/12/2018,15:00:00,FT,West Ham United,0.0,3,2,1.0,Crystal Palace,56995.0
+158,121229,9/12/2018,16:00:00,FT,Newcastle United,1.0,1,2,1.0,Wolverhampton Wanderers,50223.0
+159,121230,10/12/2018,20:00:00,FT,Everton,1.0,2,2,0.0,Watford,38400.0
+160,107393,15/12/2018,15:00:00,FT,Crystal Palace,1.0,1,0,0.0,Leicester City,24738.0
+161,108978,15/12/2018,17:30:00,FT,Fulham,0.0,0,2,2.0,West Ham United,24081.0
+162,107394,15/12/2018,15:00:00,FT,Huddersfield Town,0.0,0,1,0.0,Newcastle United,24036.0
+163,107396,15/12/2018,12:30:00,FT,Manchester City,1.0,3,1,0.0,Everton,
+164,107391,15/12/2018,15:00:00,FT,Tottenham Hotspur,0.0,1,0,0.0,Burnley,41645.0
+165,108979,15/12/2018,15:00:00,FT,Watford,1.0,3,2,0.0,Cardiff City,20032.0
+166,108980,15/12/2018,15:00:00,FT,Wolverhampton Wanderers,1.0,2,0,0.0,AFC Bournemouth,30997.0
+167,121231,16/12/2018,13:30:00,FT,Brighton & Hove Albion,0.0,1,2,2.0,Chelsea,30645.0
+168,121233,16/12/2018,16:00:00,FT,Liverpool,1.0,3,1,1.0,Manchester United,52908.0
+169,121232,16/12/2018,13:30:00,FT,Southampton,2.0,3,2,1.0,Arsenal,29497.0
+170,121234,21/12/2018,20:00:00,FT,Wolverhampton Wanderers,0.0,0,2,1.0,Liverpool,31358.0
+171,107399,22/12/2018,15:00:00,FT,AFC Bournemouth,1.0,2,0,0.0,Brighton & Hove Albion,10491.0
+172,107398,22/12/2018,12:30:00,FT,Arsenal,1.0,3,1,0.0,Burnley,59493.0
+173,108982,22/12/2018,17:30:00,FT,Cardiff City,1.0,1,5,3.0,Manchester United,33028.0
+174,107400,22/12/2018,15:00:00,FT,Chelsea,0.0,0,1,0.0,Leicester City,40558.0
+175,107402,22/12/2018,15:00:00,FT,Huddersfield Town,0.0,1,3,2.0,Southampton,22384.0
+176,107403,22/12/2018,15:00:00,FT,Manchester City,1.0,2,3,2.0,Crystal Palace,54340.0
+177,108981,22/12/2018,15:00:00,FT,Newcastle United,0.0,0,0,0.0,Fulham,51237.0
+178,107404,22/12/2018,15:00:00,FT,West Ham United,0.0,0,2,1.0,Watford,56833.0
+179,121235,23/12/2018,16:00:00,FT,Everton,1.0,2,6,3.0,Tottenham Hotspur,39319.0
+180,107412,26/12/2018,17:15:00,FT,Brighton & Hove Albion,1.0,1,1,1.0,Arsenal,30608.0
+181,107411,26/12/2018,15:00:00,FT,Burnley,1.0,1,5,3.0,Everton,21484.0
+182,108985,26/12/2018,15:00:00,FT,Crystal Palace,0.0,0,0,0.0,Cardiff City,25206.0
+183,108984,26/12/2018,12:30:00,FT,Fulham,0.0,1,1,0.0,Wolverhampton Wanderers,24382.0
+184,107410,26/12/2018,15:00:00,FT,Leicester City,1.0,2,1,1.0,Manchester City,32090.0
+185,107409,26/12/2018,15:00:00,FT,Liverpool,1.0,4,0,0.0,Newcastle United,53318.0
+186,107408,26/12/2018,15:00:00,FT,Manchester United,1.0,3,1,0.0,Huddersfield Town,74523.0
+187,107406,26/12/2018,15:00:00,FT,Tottenham Hotspur,3.0,5,0,0.0,AFC Bournemouth,45154.0
+188,107405,26/12/2018,19:30:00,FT,Watford,1.0,1,2,1.0,Chelsea,20415.0
+189,121236,27/12/2018,19:45:00,FT,Southampton,0.0,1,2,0.0,West Ham United,31654.0
+190,107413,29/12/2018,15:00:00,FT,Brighton & Hove Albion,0.0,1,0,0.0,Everton,30597.0
+191,108986,29/12/2018,15:00:00,FT,Fulham,0.0,1,0,0.0,Huddersfield Town,24423.0
+192,108987,29/12/2018,15:00:00,FT,Leicester City,0.0,0,1,0.0,Cardiff City,32047.0
+193,107416,29/12/2018,17:30:00,FT,Liverpool,4.0,5,1,1.0,Arsenal,53326.0
+194,108988,29/12/2018,15:00:00,FT,Tottenham Hotspur,1.0,1,3,0.0,Wolverhampton Wanderers,46356.0
+195,107419,29/12/2018,15:00:00,FT,Watford,0.0,1,1,1.0,Newcastle United,20336.0
+196,121238,30/12/2018,14:15:00,FT,Burnley,2.0,2,0,0.0,West Ham United,20933.0
+197,121237,30/12/2018,12:00:00,FT,Crystal Palace,0.0,0,1,0.0,Chelsea,25781.0
+198,121240,30/12/2018,16:30:00,FT,Manchester United,3.0,4,1,1.0,AFC Bournemouth,74556.0
+199,121239,30/12/2018,14:15:00,FT,Southampton,1.0,1,3,3.0,Manchester City,31381.0
+200,108990,1/1/2019,15:00:00,FT,Arsenal,1.0,4,1,0.0,Fulham,59887.0
+201,108991,1/1/2019,17:30:00,FT,Cardiff City,0.0,0,3,3.0,Tottenham Hotspur,32485.0
+202,107423,1/1/2019,12:30:00,FT,Everton,0.0,0,1,0.0,Leicester City,39052.0
+203,121241,2/1/2019,19:45:00,FT,AFC Bournemouth,3.0,3,3,3.0,Watford,10261.0
+204,121242,2/1/2019,19:45:00,FT,Chelsea,0.0,0,0,0.0,Southampton,40668.0
+205,121243,2/1/2019,19:45:00,FT,Huddersfield Town,1.0,1,2,1.0,Burnley,23715.0
+206,121246,2/1/2019,20:00:00,FT,Newcastle United,0.0,0,2,0.0,Manchester United,52217.0
+207,121244,2/1/2019,19:45:00,FT,West Ham United,0.0,2,2,0.0,Brighton & Hove Albion,59870.0
+208,121245,2/1/2019,19:45:00,FT,Wolverhampton Wanderers,0.0,0,2,0.0,Crystal Palace,30666.0
+209,121247,3/1/2019,20:00:00,FT,Manchester City,1.0,2,1,0.0,Liverpool,54511.0
+210,107428,12/1/2019,15:00:00,FT,Brighton & Hove Albion,0.0,0,1,0.0,Liverpool,30682.0
+211,108992,12/1/2019,15:00:00,FT,Burnley,2.0,2,1,1.0,Fulham,19316.0
+212,108993,12/1/2019,15:00:00,FT,Cardiff City,0.0,0,0,0.0,Huddersfield Town,30725.0
+213,107429,12/1/2019,17:30:00,FT,Chelsea,1.0,2,1,1.0,Newcastle United,40491.0
+214,107430,12/1/2019,15:00:00,FT,Crystal Palace,1.0,1,2,0.0,Watford,25010.0
+215,107432,12/1/2019,15:00:00,FT,Leicester City,0.0,1,2,2.0,Southampton,31491.0
+216,107433,12/1/2019,12:30:00,FT,West Ham United,0.0,1,0,0.0,Arsenal,59946.0
+217,121248,13/1/2019,14:15:00,FT,Everton,0.0,2,0,0.0,AFC Bournemouth,38113.0
+218,121249,13/1/2019,16:30:00,FT,Tottenham Hotspur,0.0,0,1,1.0,Manchester United,80062.0
+219,121250,14/1/2019,20:00:00,FT,Manchester City,2.0,3,0,0.0,Wolverhampton Wanderers,54171.0
+220,107436,19/1/2019,15:00:00,FT,AFC Bournemouth,0.0,2,0,0.0,West Ham United,10495.0
+221,107435,19/1/2019,17:30:00,FT,Arsenal,2.0,2,0,0.0,Chelsea,59979.0
+222,107438,19/1/2019,15:00:00,FT,Liverpool,0.0,4,3,1.0,Crystal Palace,53171.0
+223,107439,19/1/2019,15:00:00,FT,Manchester United,2.0,2,1,0.0,Brighton & Hove Albion,74532.0
+224,108996,19/1/2019,15:00:00,FT,Newcastle United,1.0,3,0,0.0,Cardiff City,49864.0
+225,107440,19/1/2019,15:00:00,FT,Southampton,0.0,2,1,0.0,Everton,29989.0
+226,107434,19/1/2019,15:00:00,FT,Watford,0.0,0,0,0.0,Burnley,19510.0
+227,108997,19/1/2019,12:30:00,FT,Wolverhampton Wanderers,2.0,4,3,0.0,Leicester City,31278.0
+228,121252,20/1/2019,16:00:00,FT,Fulham,1.0,1,2,0.0,Tottenham Hotspur,24807.0
+229,121251,20/1/2019,13:30:00,FT,Huddersfield Town,0.0,0,3,1.0,Manchester City,24190.0
+230,108998,29/1/2019,19:45:00,FT,Arsenal,0.0,2,1,0.0,Cardiff City,59933.0
+231,108999,29/1/2019,19:45:00,FT,Fulham,0.0,4,2,2.0,Brighton & Hove Albion,22008.0
+232,107441,29/1/2019,19:45:00,FT,Huddersfield Town,0.0,0,1,1.0,Everton,23699.0
+233,107443,29/1/2019,20:00:00,FT,Manchester United,0.0,2,2,0.0,Burnley,74529.0
+234,121253,29/1/2019,20:00:00,FT,Newcastle United,0.0,2,1,1.0,Manchester City,50861.0
+235,109000,29/1/2019,19:45:00,FT,Wolverhampton Wanderers,0.0,3,0,0.0,West Ham United,31122.0
+236,123351,30/1/2019,19:45:00,FT,AFC Bournemouth,0.0,4,0,0.0,Chelsea,10227.0
+237,107447,30/1/2019,20:00:00,FT,Liverpool,1.0,1,1,1.0,Leicester City,53092.0
+238,107445,30/1/2019,19:45:00,FT,Southampton,0.0,1,1,1.0,Crystal Palace,28339.0
+239,107446,30/1/2019,20:00:00,FT,Tottenham Hotspur,0.0,2,1,1.0,Watford,29164.0
+240,107452,2/2/2019,15:00:00,FT,Brighton & Hove Albion,0.0,0,0,0.0,Watford,30414.0
+241,107453,2/2/2019,15:00:00,FT,Burnley,0.0,1,1,0.0,Southampton,19787.0
+242,109003,2/2/2019,17:30:00,FT,Cardiff City,1.0,2,0,0.0,AFC Bournemouth,31939.0
+243,107454,2/2/2019,15:00:00,FT,Chelsea,2.0,5,0,0.0,Huddersfield Town,40626.0
+244,109001,2/2/2019,15:00:00,FT,Crystal Palace,1.0,2,0,0.0,Fulham,25355.0
+245,109002,2/2/2019,15:00:00,FT,Everton,1.0,1,3,2.0,Wolverhampton Wanderers,39380.0
+246,107451,2/2/2019,12:30:00,FT,Tottenham Hotspur,0.0,1,0,0.0,Newcastle United,41219.0
+247,123092,3/2/2019,14:05:00,FT,Leicester City,0.0,0,1,1.0,Manchester United,32148.0
+248,123093,3/2/2019,16:30:00,FT,Manchester City,2.0,3,1,1.0,Arsenal,54483.0
+249,123094,4/2/2019,20:00:00,FT,West Ham United,1.0,1,1,1.0,Liverpool,59903.0
+250,124209,6/2/2019,19:45:00,FT,Everton,0.0,0,2,1.0,Manchester City,39322.0
+251,107456,9/2/2019,17:30:00,FT,Brighton & Hove Albion,0.0,1,3,1.0,Burnley,29323.0
+252,107455,9/2/2019,15:00:00,FT,Crystal Palace,0.0,1,1,1.0,West Ham United,25552.0
+253,109004,9/2/2019,12:30:00,FT,Fulham,0.0,0,3,2.0,Manchester United,
+254,107457,9/2/2019,15:00:00,FT,Huddersfield Town,0.0,1,2,2.0,Arsenal,24182.0
+255,107458,9/2/2019,15:00:00,FT,Liverpool,2.0,3,0,0.0,AFC Bournemouth,53178.0
+256,109005,9/2/2019,15:00:00,FT,Southampton,0.0,1,2,0.0,Cardiff City,31438.0
+257,107461,9/2/2019,15:00:00,FT,Watford,0.0,1,0,0.0,Everton,20333.0
+258,123096,10/2/2019,16:00:00,FT,Manchester City,4.0,6,0,0.0,Chelsea,54452.0
+259,123095,10/2/2019,13:30:00,FT,Tottenham Hotspur,1.0,3,1,0.0,Leicester City,44154.0
+260,123097,11/2/2019,20:00:00,FT,Wolverhampton Wanderers,0.0,1,1,0.0,Newcastle United,30687.0
+261,123098,22/2/2019,19:45:00,FT,Cardiff City,0.0,1,5,1.0,Watford,30387.0
+262,123099,22/2/2019,19:45:00,FT,West Ham United,2.0,3,1,1.0,Fulham,59950.0
+263,109008,23/2/2019,15:00:00,FT,AFC Bournemouth,1.0,1,1,0.0,Wolverhampton Wanderers,10671.0
+264,107463,23/2/2019,12:30:00,FT,Burnley,0.0,2,1,0.0,Tottenham Hotspur,21338.0
+265,107466,23/2/2019,17:30:00,FT,Leicester City,0.0,1,4,1.0,Crystal Palace,31778.0
+266,107468,23/2/2019,15:00:00,FT,Newcastle United,0.0,2,0,0.0,Huddersfield Town,52174.0
+267,123101,24/2/2019,14:05:00,FT,Arsenal,2.0,2,0,0.0,Southampton,59877.0
+268,123102,24/2/2019,14:05:00,FT,Manchester United,0.0,0,0,0.0,Liverpool,74519.0
+269,109011,26/2/2019,19:45:00,FT,Cardiff City,0.0,0,3,1.0,Everton,31849.0
+270,109010,26/2/2019,19:45:00,FT,Huddersfield Town,0.0,1,0,0.0,Wolverhampton Wanderers,22714.0
+271,107471,26/2/2019,19:45:00,FT,Leicester City,1.0,2,1,0.0,Brighton & Hove Albion,30558.0
+272,123569,26/2/2019,20:00:00,FT,Newcastle United,2.0,2,0,0.0,Burnley,48323.0
+273,123104,27/2/2019,19:45:00,FT,Arsenal,2.0,5,1,1.0,AFC Bournemouth,59618.0
+274,107472,27/2/2019,20:00:00,FT,Chelsea,0.0,2,0,0.0,Tottenham Hotspur,40542.0
+275,123105,27/2/2019,20:00:00,FT,Crystal Palace,0.0,1,3,1.0,Manchester United,25754.0
+276,107475,27/2/2019,20:00:00,FT,Liverpool,2.0,5,0,0.0,Watford,53316.0
+277,123570,27/2/2019,20:00:00,FT,Manchester City,0.0,1,0,0.0,West Ham United,53528.0
+278,109012,27/2/2019,19:45:00,FT,Southampton,2.0,2,0,0.0,Fulham,27597.0
+279,107476,2/3/2019,15:00:00,FT,AFC Bournemouth,0.0,0,1,0.0,Manchester City,10699.0
+280,107477,2/3/2019,15:00:00,FT,Brighton & Hove Albion,0.0,1,0,0.0,Huddersfield Town,30182.0
+281,107478,2/3/2019,15:00:00,FT,Burnley,0.0,1,3,1.0,Crystal Palace,19223.0
+282,107480,2/3/2019,15:00:00,FT,Manchester United,0.0,3,2,1.0,Southampton,74459.0
+283,107481,2/3/2019,12:30:00,FT,Tottenham Hotspur,0.0,1,1,1.0,Arsenal,81332.0
+284,107483,2/3/2019,17:30:00,FT,West Ham United,2.0,2,0,0.0,Newcastle United,59910.0
+285,109014,2/3/2019,15:00:00,FT,Wolverhampton Wanderers,2.0,2,0,0.0,Cardiff City,31309.0
+286,123573,3/3/2019,16:15:00,FT,Everton,0.0,0,0,0.0,Liverpool,39335.0
+287,123572,3/3/2019,14:05:00,FT,Fulham,1.0,1,2,2.0,Chelsea,24900.0
+288,123571,3/3/2019,12:00:00,FT,Watford,1.0,2,1,0.0,Leicester City,20062.0
+289,109015,9/3/2019,15:00:00,FT,Cardiff City,1.0,2,0,0.0,West Ham United,32458.0
+290,107486,9/3/2019,12:30:00,FT,Crystal Palace,0.0,1,2,1.0,Brighton & Hove Albion,24972.0
+291,107487,9/3/2019,15:00:00,FT,Huddersfield Town,0.0,0,2,1.0,AFC Bournemouth,22304.0
+292,109017,9/3/2019,15:00:00,FT,Leicester City,1.0,3,1,0.0,Fulham,32017.0
+293,107489,9/3/2019,17:30:00,FT,Manchester City,0.0,3,1,0.0,Watford,54104.0
+294,107490,9/3/2019,15:00:00,FT,Newcastle United,0.0,3,2,2.0,Everton,52242.0
+295,107484,9/3/2019,15:00:00,FT,Southampton,0.0,2,1,1.0,Tottenham Hotspur,31890.0
+296,123576,10/3/2019,16:30:00,FT,Arsenal,1.0,2,0,0.0,Manchester United,60000.0
+297,123575,10/3/2019,14:05:00,FT,Chelsea,0.0,1,1,0.0,Wolverhampton Wanderers,40692.0
+298,123574,10/3/2019,12:00:00,FT,Liverpool,2.0,4,2,1.0,Burnley,53310.0
+299,107492,16/3/2019,15:00:00,FT,AFC Bournemouth,0.0,2,2,1.0,Newcastle United,10625.0
+300,107493,16/3/2019,15:00:00,FT,Burnley,1.0,1,2,1.0,Leicester City,20719.0
+301,107491,16/3/2019,15:00:00,FT,West Ham United,1.0,4,3,2.0,Huddersfield Town,59931.0
+302,123579,17/3/2019,16:30:00,FT,Everton,0.0,2,0,0.0,Chelsea,39356.0
+303,123578,17/3/2019,14:15:00,FT,Fulham,0.0,1,2,1.0,Liverpool,25043.0
+304,107500,30/3/2019,15:00:00,FT,Brighton & Hove Albion,0.0,0,1,0.0,Southampton,30636.0
+305,109021,30/3/2019,15:00:00,FT,Burnley,1.0,2,0,0.0,Wolverhampton Wanderers,20990.0
+306,107501,30/3/2019,15:00:00,FT,Crystal Palace,0.0,2,0,0.0,Huddersfield Town,25193.0
+307,109023,30/3/2019,12:30:00,FT,Fulham,0.0,0,2,2.0,Manchester City,25001.0
+308,107502,30/3/2019,15:00:00,FT,Leicester City,1.0,2,0,0.0,AFC Bournemouth,31530.0
+309,107503,30/3/2019,15:00:00,FT,Manchester United,1.0,2,1,0.0,Watford,74543.0
+310,107498,30/3/2019,17:30:00,FT,West Ham United,0.0,0,2,2.0,Everton,59988.0
+311,123580,31/3/2019,14:05:00,FT,Cardiff City,0.0,1,2,0.0,Chelsea,32657.0
+312,123581,31/3/2019,16:30:00,FT,Liverpool,1.0,2,1,0.0,Tottenham Hotspur,53322.0
+313,123582,1/4/2019,20:00:00,8pm,Arsenal,,0,0,,Newcastle United,
+314,125042,2/4/2019,19:45:00,7.45pm,Watford,,0,0,,Fulham,
+315,124556,2/4/2019,19:45:00,7.45pm,Wolverhampton Wanderers,,0,0,,Manchester United,
+316,125043,3/4/2019,19:45:00,7.45pm,Chelsea,,0,0,,Brighton & Hove Albion,
+317,125044,3/4/2019,19:45:00,7.45pm,Manchester City,,0,0,,Cardiff City,
+318,125023,3/4/2019,19:45:00,7.45pm,Tottenham Hotspur,,0,0,,Crystal Palace,
+319,124557,5/4/2019,20:00:00,8pm,Southampton,,0,0,,Liverpool,
+320,107506,6/4/2019,15:00:00,3pm,AFC Bournemouth,,0,0,,Burnley,
+321,107509,6/4/2019,15:00:00,3pm,Huddersfield Town,,0,0,,Leicester City,
+322,107510,6/4/2019,15:00:00,3pm,Newcastle United,,0,0,,Crystal Palace,
+323,124558,7/4/2019,14:05:00,2.05pm,Everton,,0,0,,Arsenal,
+324,124560,8/4/2019,20:00:00,8pm,Chelsea,,0,0,,West Ham United,
+325,124561,12/4/2019,20:00:00,8pm,Leicester City,,0,0,,Newcastle United,
+326,107513,13/4/2019,15:00:00,3pm,Brighton & Hove Albion,,0,0,,AFC Bournemouth,
+327,109027,13/4/2019,15:00:00,3pm,Burnley,,0,0,,Cardiff City,
+328,109028,13/4/2019,15:00:00,3pm,Fulham,,0,0,,Everton,
+329,107516,13/4/2019,17:30:00,5.30pm,Manchester United,,0,0,,West Ham United,
+330,109029,13/4/2019,15:00:00,3pm,Southampton,,0,0,,Wolverhampton Wanderers,
+331,107517,13/4/2019,12:30:00,12.30pm,Tottenham Hotspur,,0,0,,Huddersfield Town,
+332,124562,14/4/2019,14:05:00,2.05pm,Crystal Palace,,0,0,,Manchester City,
+333,124563,14/4/2019,16:30:00,4.30pm,Liverpool,,0,0,,Chelsea,
+334,124564,15/4/2019,20:00:00,8pm,Watford,,0,0,,Arsenal,
+335,125045,16/4/2019,19:45:00,7.45pm,Brighton & Hove Albion,,0,0,,Cardiff City,
+336,109031,20/4/2019,15:00:00,3pm,AFC Bournemouth,,0,0,,Fulham,
+337,107522,20/4/2019,15:00:00,3pm,Huddersfield Town,,0,0,,Watford,
+338,107523,20/4/2019,12:30:00,12.30pm,Manchester City,,0,0,,Tottenham Hotspur,
+339,107524,20/4/2019,17:30:00,5.30pm,Newcastle United,,0,0,,Southampton,
+340,107525,20/4/2019,15:00:00,3pm,West Ham United,,0,0,,Leicester City,
+341,109030,20/4/2019,15:00:00,3pm,Wolverhampton Wanderers,,0,0,,Brighton & Hove Albion,
+342,125046,21/4/2019,16:00:00,4pm,Arsenal,,0,0,,Crystal Palace,
+343,124566,21/4/2019,16:00:00,4pm,Cardiff City,,0,0,,Liverpool,
+344,124565,21/4/2019,13:30:00,1.30pm,Everton,,0,0,,Manchester United,
+345,124567,22/4/2019,20:00:00,8pm,Chelsea,,0,0,,Burnley,
+346,125047,23/4/2019,19:45:00,7.45pm,Tottenham Hotspur,,0,0,,Brighton & Hove Albion,
+347,125048,23/4/2019,19:45:00,7.45pm,Watford,,0,0,,Southampton,
+348,124568,24/4/2019,20:00:00,8pm,Manchester United,,0,0,,Manchester City,
+349,125049,24/4/2019,19:45:00,7.45pm,Wolverhampton Wanderers,,0,0,,Arsenal,
+350,124569,26/4/2019,20:00:00,8pm,Liverpool,,0,0,,Huddersfield Town,
+351,107527,27/4/2019,17:30:00,5.30pm,Brighton & Hove Albion,,0,0,,Newcastle United,
+352,107529,27/4/2019,15:00:00,3pm,Crystal Palace,,0,0,,Everton,
+353,109033,27/4/2019,15:00:00,3pm,Fulham,,0,0,,Cardiff City,
+354,107533,27/4/2019,15:00:00,3pm,Southampton,,0,0,,AFC Bournemouth,
+355,107526,27/4/2019,12:30:00,12.30pm,Tottenham Hotspur,,0,0,,West Ham United,
+356,109034,27/4/2019,15:00:00,3pm,Watford,,0,0,,Wolverhampton Wanderers,
+357,124570,28/4/2019,14:05:00,2.05pm,Burnley,,0,0,,Manchester City,
+358,124571,28/4/2019,16:30:00,4.30pm,Manchester United,,0,0,,Chelsea,
+359,124572,29/4/2019,20:00:00,8pm,Leicester City,,0,0,,Arsenal,
+360,107536,4/5/2019,15:00:00,3pm,AFC Bournemouth,,0,0,,Tottenham Hotspur,
+361,107535,4/5/2019,15:00:00,3pm,Arsenal,,0,0,,Brighton & Hove Albion,
+362,109035,4/5/2019,15:00:00,3pm,Cardiff City,,0,0,,Crystal Palace,
+363,107537,4/5/2019,15:00:00,3pm,Chelsea,,0,0,,Watford,
+364,107538,4/5/2019,15:00:00,3pm,Everton,,0,0,,Burnley,
+365,107539,4/5/2019,15:00:00,3pm,Huddersfield Town,,0,0,,Manchester United,
+366,107540,4/5/2019,15:00:00,3pm,Manchester City,,0,0,,Leicester City,
+367,107541,4/5/2019,15:00:00,3pm,Newcastle United,,0,0,,Liverpool,
+368,107534,4/5/2019,15:00:00,3pm,West Ham United,,0,0,,Southampton,
+369,109036,4/5/2019,15:00:00,3pm,Wolverhampton Wanderers,,0,0,,Fulham,
+370,107546,12/5/2019,15:00:00,3pm,Brighton & Hove Albion,,0,0,,Manchester City,
+371,107548,12/5/2019,15:00:00,3pm,Burnley,,0,0,,Arsenal,
+372,107542,12/5/2019,15:00:00,3pm,Crystal Palace,,0,0,,AFC Bournemouth,
+373,109039,12/5/2019,15:00:00,3pm,Fulham,,0,0,,Newcastle United,
+374,107545,12/5/2019,15:00:00,3pm,Leicester City,,0,0,,Chelsea,
+375,109038,12/5/2019,15:00:00,3pm,Liverpool,,0,0,,Wolverhampton Wanderers,
+376,109037,12/5/2019,15:00:00,3pm,Manchester United,,0,0,,Cardiff City,
+377,107543,12/5/2019,15:00:00,3pm,Southampton,,0,0,,Huddersfield Town,
+378,107544,12/5/2019,15:00:00,3pm,Tottenham Hotspur,,0,0,,Everton,
+379,107547,12/5/2019,15:00:00,3pm,Watford,,0,0,,West Ham United,
