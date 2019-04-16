@@ -2,13 +2,7 @@ import numpy as np
 import pandas as pd
 from scipy.stats import poisson
 import matplotlib.pyplot as plt
-def drandom():
-    pmass=[0.2,0.4,0.1,0.3]
-    var,pp,u=0,pmass[0],np.random.uniform(0,1)
-    while(u>pp):
-        var=var+1
-        pp=pp+pmass[var]
-    return  var
+
 
 def get_Host_stats(Team):
     for name in Team["Team"]:
@@ -29,8 +23,8 @@ def get_Away_stats(Team):
 
 def expected_goal():
     standing = pd.read_csv('live_table.csv')
-    Home_Team = standing[standing['Team'] == "Watford" ]
-    Away_Team = standing[standing['Team']== "Arsenal" ]
+    Home_Team = standing[standing['Team'] == "Brighton & Hove Albion" ]
+    Away_Team = standing[standing['Team']== "Cardiff City" ]
     HT,HW,HD,HL,HF,HA=get_Host_stats(Home_Team)
     AT, AW, AD, AL, AF, AA = get_Away_stats(Away_Team)
     """HP:refers to number of all matches which the specific team played as host
@@ -69,14 +63,21 @@ def expected_goal():
     i=np.arange(0,6)
     Home_Team_goal_probability= poisson.pmf(i, excpected_goal_for_Home_team)
     Away_Team_Team_goal_probability = poisson.pmf(i, excpected_goal_for_Away_team)
+    """HG:our prediction for Home_team Goals in this match
+       AG:our prediction for Away_team Goals in this match"""
+    results,max,HG,AG=result_percentage_and_prediction(Home_Team_goal_probability, Away_Team_Team_goal_probability)
+    labels=[HT+" Win","Draw",AT+" Win"]
     fig=plt.figure(figsize=(10,6))
     fig.suptitle("Goal probability\n"+HT+" Vs "+AT)
     ax = fig.add_subplot(221)
     ax.set(title=HT,xlabel="Number of Goals",ylabel="Probability")
     ax1 = fig.add_subplot(222)
     ax1.set(title=AT, xlabel="Number of Goals", ylabel="Probability")
-    ax.bar(i,Home_Team_goal_probability,label=HT,color="blue")
-    ax1.bar(i,Away_Team_Team_goal_probability,label=AT,color="red")
+    ax2=fig.add_subplot(223)
+    ax.bar(i,Home_Team_goal_probability,color="Blue")
+    ax1.bar(i,Away_Team_Team_goal_probability,color="Red")
+    ax2.pie(results, labels=labels, shadow=True, autopct='%1.1f%%')
+    plt.text(3.3,0.09,"Our Prediction: "+HT+" "+str(HG)+" "+AT+" "+str(AG)+"\n\npossibility: "+str(max)+"%")
     fig.legend()
     data={'Goals':[0,1,2,3,4,5],HT:Home_Team_goal_probability,AT:Away_Team_Team_goal_probability}
     df=pd.DataFrame(data)
@@ -85,5 +86,41 @@ def expected_goal():
 
     #print(pridected_goal_for_Home_team,pridected_goal_for_Away_team)
     #return pridected_goal_for_Home_team,pridected_goal_for_Away_team
+
+def result_percentage_and_prediction(Home_Team_goal_probability, Away_Team_Team_goal_probability):
+    Home_Win=0
+    Draw=0
+    Away_win=0
+    max=0
+    results=[]
+    """HG:our prediction for Home_team Goals in this match
+       AG:our prediction for Away_team Goals in this match"""
+    HG=0
+    AG=0
+    for i in range(len(Home_Team_goal_probability)):
+        for j in range(len(Away_Team_Team_goal_probability)):
+            if i>j:
+                temp=(Home_Team_goal_probability[i]*Away_Team_Team_goal_probability[j])*100
+                Home_Win+=temp
+            if i==j:
+                temp =(Home_Team_goal_probability[i]*Away_Team_Team_goal_probability[j])*100
+                Draw+=temp
+            if i<j:
+                temp= (Home_Team_goal_probability[i]*Away_Team_Team_goal_probability[j])*100
+                Away_win+=temp
+            else:
+                temp=(Home_Team_goal_probability[i]*Away_Team_Team_goal_probability[j])*100
+                if temp>max:
+                    max=temp
+                    HG=i
+                    AG=j
+
+    results.append(Home_Win)
+    results.append(Draw)
+    results.append(Away_win)
+    max=round(max)
+    return results,max,HG,AG
+
+
 
 expected_goal()

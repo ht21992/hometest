@@ -312,28 +312,28 @@
 310,107498,30/3/2019,17:30:00,FT,West Ham United,0.0,0,2,2.0,Everton,59988.0
 311,123580,31/3/2019,14:05:00,FT,Cardiff City,0.0,1,2,0.0,Chelsea,32657.0
 312,123581,31/3/2019,16:30:00,FT,Liverpool,1.0,2,1,0.0,Tottenham Hotspur,53322.0
-313,123582,1/4/2019,20:00:00,8pm,Arsenal,,0,0,,Newcastle United,
-314,125042,2/4/2019,19:45:00,7.45pm,Watford,,0,0,,Fulham,
-315,124556,2/4/2019,19:45:00,7.45pm,Wolverhampton Wanderers,,0,0,,Manchester United,
-316,125043,3/4/2019,19:45:00,7.45pm,Chelsea,,0,0,,Brighton & Hove Albion,
-317,125044,3/4/2019,19:45:00,7.45pm,Manchester City,,0,0,,Cardiff City,
-318,125023,3/4/2019,19:45:00,7.45pm,Tottenham Hotspur,,0,0,,Crystal Palace,
-319,124557,5/4/2019,20:00:00,8pm,Southampton,,0,0,,Liverpool,
-320,107506,6/4/2019,15:00:00,3pm,AFC Bournemouth,,0,0,,Burnley,
-321,107509,6/4/2019,15:00:00,3pm,Huddersfield Town,,0,0,,Leicester City,
-322,107510,6/4/2019,15:00:00,3pm,Newcastle United,,0,0,,Crystal Palace,
-323,124558,7/4/2019,14:05:00,2.05pm,Everton,,0,0,,Arsenal,
-324,124560,8/4/2019,20:00:00,8pm,Chelsea,,0,0,,West Ham United,
-325,124561,12/4/2019,20:00:00,8pm,Leicester City,,0,0,,Newcastle United,
-326,107513,13/4/2019,15:00:00,3pm,Brighton & Hove Albion,,0,0,,AFC Bournemouth,
-327,109027,13/4/2019,15:00:00,3pm,Burnley,,0,0,,Cardiff City,
-328,109028,13/4/2019,15:00:00,3pm,Fulham,,0,0,,Everton,
-329,107516,13/4/2019,17:30:00,5.30pm,Manchester United,,0,0,,West Ham United,
-330,109029,13/4/2019,15:00:00,3pm,Southampton,,0,0,,Wolverhampton Wanderers,
-331,107517,13/4/2019,12:30:00,12.30pm,Tottenham Hotspur,,0,0,,Huddersfield Town,
-332,124562,14/4/2019,14:05:00,2.05pm,Crystal Palace,,0,0,,Manchester City,
-333,124563,14/4/2019,16:30:00,4.30pm,Liverpool,,0,0,,Chelsea,
-334,124564,15/4/2019,20:00:00,8pm,Watford,,0,0,,Arsenal,
+313,123582,1/4/2019,20:00:00,FT,Arsenal,1.0,2,0,0.0,Newcastle United,59869.0
+314,125042,2/4/2019,19:45:00,FT,Watford,1.0,4,1,1.0,Fulham,17301.0
+315,124556,2/4/2019,19:45:00,FT,Wolverhampton Wanderers,1.0,2,1,1.0,Manchester United,31302.0
+316,125043,3/4/2019,19:45:00,FT,Chelsea,1.0,3,0,0.0,Brighton & Hove Albion,38593.0
+317,125044,3/4/2019,19:45:00,FT,Manchester City,2.0,2,0,0.0,Cardiff City,53559.0
+318,125023,3/4/2019,19:45:00,FT,Tottenham Hotspur,0.0,2,0,0.0,Crystal Palace,59215.0
+319,124557,5/4/2019,20:00:00,FT,Southampton,1.0,1,3,1.0,Liverpool,31797.0
+320,107506,6/4/2019,15:00:00,FT,AFC Bournemouth,1.0,1,3,2.0,Burnley,10446.0
+321,107509,6/4/2019,15:00:00,FT,Huddersfield Town,0.0,1,4,1.0,Leicester City,24146.0
+322,107510,6/4/2019,15:00:00,FT,Newcastle United,0.0,0,1,0.0,Crystal Palace,51926.0
+323,124558,7/4/2019,14:05:00,FT,Everton,1.0,1,0,0.0,Arsenal,39400.0
+324,124560,8/4/2019,20:00:00,FT,Chelsea,1.0,2,0,0.0,West Ham United,40537.0
+325,124561,12/4/2019,20:00:00,FT,Leicester City,0.0,0,1,1.0,Newcastle United,32108.0
+326,107513,13/4/2019,15:00:00,FT,Brighton & Hove Albion,0.0,0,5,1.0,AFC Bournemouth,30460.0
+327,109027,13/4/2019,15:00:00,FT,Burnley,1.0,2,0,0.0,Cardiff City,21480.0
+328,109028,13/4/2019,15:00:00,FT,Fulham,0.0,2,0,0.0,Everton,24971.0
+329,107516,13/4/2019,17:30:00,FT,Manchester United,1.0,2,1,0.0,West Ham United,74478.0
+330,109029,13/4/2019,15:00:00,FT,Southampton,2.0,3,1,1.0,Wolverhampton Wanderers,31708.0
+331,107517,13/4/2019,12:30:00,FT,Tottenham Hotspur,2.0,4,0,0.0,Huddersfield Town,58308.0
+332,124562,14/4/2019,14:05:00,FT,Crystal Palace,0.0,1,3,1.0,Manchester City,25721.0
+333,124563,14/4/2019,16:30:00,FT,Liverpool,0.0,2,0,0.0,Chelsea,53279.0
+334,124564,15/4/2019,20:00:00,FT,Watford,0.0,0,1,1.0,Arsenal,20480.0
 335,125045,16/4/2019,19:45:00,7.45pm,Brighton & Hove Albion,,0,0,,Cardiff City,
 336,109031,20/4/2019,15:00:00,3pm,AFC Bournemouth,,0,0,,Fulham,
 337,107522,20/4/2019,15:00:00,3pm,Huddersfield Town,,0,0,,Watford,
@@ -359,16 +359,16 @@
 357,124570,28/4/2019,14:05:00,2.05pm,Burnley,,0,0,,Manchester City,
 358,124571,28/4/2019,16:30:00,4.30pm,Manchester United,,0,0,,Chelsea,
 359,124572,29/4/2019,20:00:00,8pm,Leicester City,,0,0,,Arsenal,
-360,107536,4/5/2019,15:00:00,3pm,AFC Bournemouth,,0,0,,Tottenham Hotspur,
+360,125181,3/5/2019,20:00:00,8pm,Everton,,0,0,,Burnley,
 361,107535,4/5/2019,15:00:00,3pm,Arsenal,,0,0,,Brighton & Hove Albion,
-362,109035,4/5/2019,15:00:00,3pm,Cardiff City,,0,0,,Crystal Palace,
+362,109035,4/5/2019,17:30:00,5.30pm,Cardiff City,,0,0,,Crystal Palace,
 363,107537,4/5/2019,15:00:00,3pm,Chelsea,,0,0,,Watford,
-364,107538,4/5/2019,15:00:00,3pm,Everton,,0,0,,Burnley,
-365,107539,4/5/2019,15:00:00,3pm,Huddersfield Town,,0,0,,Manchester United,
-366,107540,4/5/2019,15:00:00,3pm,Manchester City,,0,0,,Leicester City,
-367,107541,4/5/2019,15:00:00,3pm,Newcastle United,,0,0,,Liverpool,
-368,107534,4/5/2019,15:00:00,3pm,West Ham United,,0,0,,Southampton,
-369,109036,4/5/2019,15:00:00,3pm,Wolverhampton Wanderers,,0,0,,Fulham,
+364,107540,4/5/2019,12:30:00,12.30pm,Manchester City,,0,0,,Leicester City,
+365,107534,4/5/2019,15:00:00,3pm,West Ham United,,0,0,,Southampton,
+366,109036,4/5/2019,15:00:00,3pm,Wolverhampton Wanderers,,0,0,,Fulham,
+367,125182,5/5/2019,14:00:00,2pm,Huddersfield Town,,0,0,,Manchester United,
+368,125183,5/5/2019,16:30:00,4.30pm,Newcastle United,,0,0,,Liverpool,
+369,125184,6/5/2019,20:00:00,8pm,AFC Bournemouth,,0,0,,Tottenham Hotspur,
 370,107546,12/5/2019,15:00:00,3pm,Brighton & Hove Albion,,0,0,,Manchester City,
 371,107548,12/5/2019,15:00:00,3pm,Burnley,,0,0,,Arsenal,
 372,107542,12/5/2019,15:00:00,3pm,Crystal Palace,,0,0,,AFC Bournemouth,
