@@ -23,8 +23,8 @@ def get_Away_stats(Team):
 
 def expected_goal():
     standing = pd.read_csv('live_table.csv')
-    Home_Team = standing[standing['Team'] == "Newcastle United" ]
-    Away_Team = standing[standing['Team']== "Southampton" ]
+    Home_Team = standing[standing['Team'] == "Liverpool" ]
+    Away_Team = standing[standing['Team']== "Arsenal" ]
     HT,HW,HD,HL,HF,HA=get_Host_stats(Home_Team)
     AT, AW, AD, AL, AF, AA = get_Away_stats(Away_Team)
     """HP:refers to number of all matches which the specific team played as host
@@ -47,6 +47,7 @@ def expected_goal():
     AAG=sum(standing["AF"])/(sum(standing["AW"])+sum(standing["AD"])+sum(standing["AL"]))
     AHC=sum(standing["HA"])/(sum(standing["HW"])+sum(standing["HD"])+sum(standing["HL"]))
     AAC=sum(standing["AA"])/(sum(standing["AW"])+sum(standing["AD"])+sum(standing["AL"]))
+    print (HF,HW,HD,HL,AHG)
     """HTAS:(Home Team Attack Strength)
        HTDS:(Home Team Defance Strength)
        ATAS:(Away Team Attack Strength)
