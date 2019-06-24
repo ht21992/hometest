@@ -35,3 +35,9 @@ svclassifier.fit(x_train,y_train)
 y_predict=svclassifier.predict(x_test)
 from sklearn.metrics import confusion_matrix,classification_report
 print(classification_report(y_test,y_predict))
+"""fig=plt.figure()
+ax=fig.add_subplot(221)
+ax2=fig.add_subplot(222)
+ax.plot(x)
+ax2.plot(y)
+plt.show()"""
