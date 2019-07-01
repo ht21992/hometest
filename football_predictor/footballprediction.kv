@@ -1,0 +1,243 @@
+#:import Factory kivy.factory.Factory
+Screenmanagement:
+	Home_Screen:
+	About_Screen:
+	Start_Screen:
+	Result_Screen:
+	
+<MySpinnerOption@SpinnerOption>:
+	background_color:0,0,0,0
+	background_down:'atlas://data//images//defaulttheme/spinner'
+	font_name:'ChunkFive'
+	
+<Network_Popup>:
+	size_hint:None,None
+	size:300,100
+	auto_dismiss:False
+	title:"No Network Connection"
+	separator_height:0
+	Button:
+		text:"Exit"
+		font_name:'ChunkFive'
+		on_press:app.root.current = "home"
+		on_press:app.stop()
+<Popup_Window>:
+	size_hint:None,None
+	size:300,100
+	auto_dismiss:False
+	title:"Please Select Teams"
+	separator_height:0
+	Button:
+		font_name:'ChunkFive'
+		text:"Go Back"
+		on_press:app.root.current = "start"
+		on_press:root.dismiss()
+<ToggleButton>:
+	size_hint:None,None
+	size:75,50	
+	group:'league'
+	background_color:0,0,0,0.5
+<NormalButton@Button>:
+	size_hint:0.20,0.20
+	background_color:0,0,0,0.3
+	font_name:'ChunkFive'
+<Start_Screen>:
+	name:"start"
+	Image:
+		id:bg_pic
+		source:"start_bg.png"
+		allow_stretch:True
+	AnchorLayout:
+		anchor_x:"left"
+		anchor_y:"center"
+		padding:5
+		spacing:3
+		Spinner:
+			background_color:0,0,0,0.3
+			background_down:'atlas://data//images//defaulttheme/spinner'
+			option_cls:Factory.get("MySpinnerOption")
+			id:home_spinner
+			text:"Home Team"
+			font_name:'ChunkFive'
+			values:root.values
+			size_hint:0.43,0.20
+	AnchorLayout:
+		anchor_x:"right"
+		anchor_y:"center"
+		padding:5
+		spacing:3
+		Spinner:
+			id:away_spinner
+			background_color:0,0,0,0.3
+			background_down:'atlas://data//images//defaulttheme/spinner'
+			option_cls:Factory.get("MySpinnerOption")
+			font_name:'ChunkFive'
+			text:"Away Team"
+			values:root.values
+			size_hint:0.43,0.20
+			
+	AnchorLayout:
+		anchor_x:"right"
+		anchor_y:"bottom"
+		NormalButton:
+			font_size:(root.width**2 + root.height**2)/13**4
+			text:"Predict"
+			on_press:app.root.current = "result"
+			on_press:root.calculate_result()
+	AnchorLayout:
+		anchor_x:"left"
+		anchor_y:"top"
+		spacing:3
+		BoxLayout:
+			size_hint:None,None
+			size:200,100
+			top:root.top
+			spacing:5
+			padding:10
+			ToggleButton:
+				id:PL_T_button
+				on_press:root.PL_button()
+				Image:
+					source:'pl1.png'
+					x:self.parent.x
+					y:self.parent.y
+					size:self.parent.size
+					stretch:True
+			ToggleButton:
+				id:Serie_A_T_button
+				on_press:root.Serie_A_button()
+				Image:
+					source:'seriea.png'
+					x:self.parent.x
+					y:self.parent.y
+					size:self.parent.size
+					stretch:True
+			ToggleButton:
+				id:Laliga_T_button
+				on_press:root.Laliga_Button()
+				Image:
+					source:'laliga.png'
+					x:self.parent.x
+					y:self.parent.y
+					size:self.parent.size
+					stretch:True
+			ToggleButton:
+				id:Bundes_Liga_T_button
+				on_press:root.Bundes_Liga_button()
+				Image:
+					source:'bundes.png'
+					x:self.parent.x
+					y:self.parent.y
+					size:self.parent.size
+					stretch:True
+	AnchorLayout:
+		font_size:(root.width**2 + root.height**2)/13**4
+		anchor_x:"left"
+		anchor_y:"bottom"
+		NormalButton:
+			font_size:(root.width**2 + root.height**2)/13**4
+			text:"Back"
+			on_press:app.root.current = "home"
+			on_press:root.set_initial_form()
+<Home_Screen>:
+	name:"home"
+	canvas:
+		Rectangle:
+			size:self.size
+			pos:self.pos
+			source:"home_bg.jpg"
+	AnchorLayout:
+		anchor_x:"left"
+		anchor_y:"center"
+		padding:10
+		NormalButton:
+			text:"About"
+			font_size:(root.width**2 + root.height**2)/13**4
+			on_press:app.root.current = "about"
+	AnchorLayout:
+		anchor_x:"center"
+		anchor_y:"center"
+		padding:10
+		NormalButton:
+			text:"Start"
+			font_size:(root.width**2 + root.height**2)/12.5**4
+			on_press:root.conection()
+			on_press:app.root.current = "start"
+	AnchorLayout:
+		padding:10
+		anchor_x:"right"
+		anchor_y:"center"
+		padding:15
+		NormalButton:
+			text:"Exit"
+			font_size:(root.width**2 + root.height**2)/12.5**4
+			on_press:app.stop()
+	
+<About_Screen>:
+	name:"about"
+	canvas:
+		Rectangle:
+			size:self.size
+			pos:self.pos
+			source:"about_bg.jpg"
+	AnchorLayout:
+		anchor_x:"left"
+		anchor_y:"bottom"
+		NormalButton:
+			text:"Back"
+			font_size:(root.width**2 + root.height**2)/12.5**4
+			on_press:app.root.current = "home"
+	AnchorLayout:
+		anchor_x:'center'
+		anchor_y:'center'
+		Label:
+			id:about_lbl
+			font_size:22
+			text:"                          Football Predictor Version 1.0.0\n\n About Page"
+			font_name:'ChunkFive'
+<Result_Screen>:
+	name:"result"
+	BoxLayout:
+		orientation:"vertical"
+		BoxLayout:
+			size_hint_y:0.2
+			BoxLayout:
+				padding:10
+				spacing:5
+				NormalButton:
+					font_size:(root.width**2 + root.height**2)/14.3**4
+					id:goal_graph
+					text:"Goal Graph"
+					pos_hint: {'top':1}
+					size_hint:0.20,0.80
+					on_press:root.show_goal_graph()
+				NormalButton:
+					font_size:(root.width**2 + root.height**2)/14.3**4
+					id:win_graph
+					text:"Winning Graph"
+					pos_hint: {'top':1}
+					size_hint:0.20,0.80
+					on_press:root.show_win_graph()
+				NormalButton:
+					font_size:(root.width**2 + root.height**2)/14.3**4
+					id:our_prediction
+					text:"Our Predictions"
+					pos_hint: {'top':1}
+					size_hint:0.20,0.80
+					on_press:root.show_predictions()
+		BoxLayout:
+			id:draw_layout
+			Label:
+				id:test_lbl
+				text:"Please select from the task bar above"
+				font_name:'ChunkFive'
+		BoxLayout:
+			size_hint_y:0.1
+			NormalButton:
+				font_size:(root.width**2 + root.height**2)/13**4
+				text:"Back"
+				on_press:app.root.current = "start"
+				size_hint:0.20,0.80
+			
+				
+			
