@@ -14,12 +14,12 @@ def get_serie_A():
     serie_a_teams=list(serie_a_italy_tabel["Team"])
     return serie_a_teams
 def get_bundesliga():
-    bundesliga = pd.read_html("https://footystats.org/germany/bundesliga/home-away-league-table")
+    bundesliga = pd.read_html("https://footystats.org/germany/bundesliga/2018-2019/home-away-league-table")
     bundesliga_tabel = bundesliga[0]
     bundesliga_teams=list(bundesliga_tabel["Team"])
     return bundesliga_teams
 def get_laliga():
-    la_liga = pd.read_html("https://footystats.org/spain/la-liga/home-away-league-table")
+    la_liga = pd.read_html("https://footystats.org/spain/la-liga/2018-2019/home-away-league-table")
     la_liga_table=la_liga[0]
     la_liga_teams=list(la_liga_table["Team"])
     return la_liga_teams
@@ -193,7 +193,7 @@ def Serie_A_Italy(Home,Away):
     return fig
 
 def Bundesliga(Home,Away):
-    bundesliga_table = pd.read_html("https://footystats.org/germany/bundesliga/home-away-league-table")
+    bundesliga_table = pd.read_html("https://footystats.org/germany/bundesliga/2018-2019/home-away-league-table")
     Home_bundesliga_table = bundesliga_table[0]
     Away_bundesliga_table = bundesliga_table[1]
     Home_Team = Home_bundesliga_table[Home_bundesliga_table["Team"] == Home]
@@ -205,7 +205,7 @@ def Bundesliga(Home,Away):
     fig=calculation_team_stregnth(Home_Team, Away_Team, AHG, AAG, AHC, AAC)
     return fig
 def La_liga(Home,Away):
-    la_liga_table=pd.read_html("https://footystats.org/spain/la-liga/home-away-league-table")
+    la_liga_table=pd.read_html("https://footystats.org/spain/la-liga/2018-2019/home-away-league-table")
     Home_la_liga_table = la_liga_table[0]
     Away_la_liga_table = la_liga_table[1]
     Home_Team = Home_la_liga_table[Home_la_liga_table["Team"] == Home]
