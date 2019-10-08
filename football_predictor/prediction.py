@@ -9,7 +9,7 @@ def get_premier_league():
     PL_teams=list(PL_tabel["Team"])
     return PL_teams
 def get_serie_A():
-    serie_a= pd.read_html("https://footystats.org/italy/serie-a/home-away-league-table")
+    serie_a= pd.read_html("https://footystats.org/italy/serie-a/2018-2019/home-away-league-table")
     serie_a_italy_tabel=serie_a[0]
     serie_a_teams=list(serie_a_italy_tabel["Team"])
     return serie_a_teams
